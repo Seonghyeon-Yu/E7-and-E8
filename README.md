@@ -4,6 +4,8 @@ Python and SageMath codes for our paper :
 
 _"The Betti numbers of real toric varieties associated to Weyl chambers of types_ $E_{7}$ _and_ $E_{8}$"
 
+All codes are in __E7E8.ipynb__ file.
+
 # Environment
 
 We have worked on _"SageMath 9.3 Notebook"_ ; 
