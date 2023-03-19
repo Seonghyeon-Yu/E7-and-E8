@@ -28,4 +28,4 @@ In __Data__ folder, there are __pickle__ files which are the results of codes fo
 
 __simplices of E7 of type {} vtx elimination ver.pkl__
 
-For __$E_8$__, __simplices of E7 of type {} coset ver.pkl__ files are not in __Data__ folder, since they are too big to upload; each files have __4.2 GB__ and __3.9 GB__.
+For __$E_8$__, __simplices of E7 of type {} coset ver.pkl__ files are not in __Data__ folder, since they are too big to upload; each file has __4.2 GB__ and __3.9 GB__.
