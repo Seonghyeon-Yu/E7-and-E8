@@ -2,7 +2,9 @@
 
 This is the application for type $E_7$.
 
-In "E7.ipynb", there are the out-puts which are already ran.
+In __"E7.ipynb"__, there are the out-puts which are already ran.
+
+__E7.ipynb__ file is on __SageMath 9.3 notebook__
 
 If you want to run and check the results, you may need to change the directory of __pickle files__ in the codes (or you just put __E7.ipynb__ in __Data__ folder).
 
