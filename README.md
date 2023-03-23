@@ -46,7 +46,7 @@ return ["coset representations of Weyl group"]
 ### vtx(simple_root, fundamental_coweight)
 
 ```python
-return ["coweight lattice coordinates of vertices of Coxeter complex"]
+return ["coordinates of vertices of Coxeter complex"]
 ```
 
 
@@ -54,7 +54,7 @@ return ["coweight lattice coordinates of vertices of Coxeter complex"]
 ### vtxpre(simple_root, fundamental_coweight)
 
 ```python
-return [["vertices classified by fundamental coweight"]]
+return [["vertex orbits of Weyl group"]]
 ```
 
 
@@ -67,10 +67,10 @@ return ["coordinate of vector in characteristic matrix"]
 
 
 
-### find_reduced_rowspace(simple_root)
+### find_rowspace(simple_root)
 
 ```python
-return [["elements of reduced rowspace classified by orbit types"]]
+return [["elements of rowspace classified by orbit types"]]
 ```
 
 
