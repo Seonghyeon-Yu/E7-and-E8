@@ -8,13 +8,13 @@ The results from our codes are as follows :
 
 # $G_2$
 
-'' python
+''' python
 not connected : number of components are 4
 Number of orbit : 3
 Number of vtx of coset ver. : 8
 Type 1 is pure : True
 f-vector : [1, 2, 1]
 Betti number : {0: 1, 1: 0}
-''
+'''
 
 
