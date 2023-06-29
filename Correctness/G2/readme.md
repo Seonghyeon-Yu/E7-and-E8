@@ -1,7 +1,9 @@
 # $G_2$
 
 This is the application for type $G_2$.
+
 For type $G_2$, each components of Ks have only 2 vertices and 1 edge.
+
 Hence, the vertex elimination is not working on type G2.
 
 In __"G2.ipynb"__, there are the out-puts which are already ran.
