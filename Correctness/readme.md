@@ -1,7 +1,7 @@
 # To check the correctness
 These are to check the correctness of our codes.
 
-The known results for types $G_2$, $F_4$ and $E_6$ can be found in $Table 1$ our paper.
+The known results for types $G_2$, $F_4$ and $E_6$ can be found in __Table 1__ our paper.
 
 
 
