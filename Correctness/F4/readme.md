@@ -6,7 +6,7 @@ In __"F4.ipynb"__, there are the out-puts which are already ran.
 
 __F4.ipynb__ file is on __SageMath 9.3 notebook__
 
-If you want to run and check the results, you may need to change the directory of __pickle files__ in the codes (or you just put __F4.ipynb__ in __Data__ folder).
+If you want to run and check the results, you may need to change the directory of __pickle files__ in the codes.
 
 
 
@@ -21,12 +21,3 @@ print("vtx elimination of this type is pure : True or False")
 print("f-vector of vtx elimination")
 print("Betti number")
 ```
-
-
-
-In __Data__ folder, there are __pickle__ files which are the results of codes for a convenience :
-
-__simiplices of F4 of type {} coset ver.pkl__
-
-__simplices of F4 of type {} vtx elimination ver.pkl__
-
