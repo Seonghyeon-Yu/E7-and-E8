@@ -1,4 +1,5 @@
-These are for checking of correctness of our codes.
+# To check the correctness
+These are to check the correctness of our codes.
 
 The known results for types $G_2$, $F_4$ and $E_6$ can be found in our paper.
 
@@ -6,7 +7,7 @@ The known results for types $G_2$, $F_4$ and $E_6$ can be found in our paper.
 
 The results from our codes are as follows :
 
-# $G_2$
+## $G_2$
 
 ```{python}
 not connected : number of components are 4
@@ -18,7 +19,7 @@ Betti number : {0: 1, 1: 0}
 --------------------------
 ```
 
-# $F_4$
+## $F_4$
 
 ```{python}
 not connected : number of components are 2
@@ -39,7 +40,7 @@ Betti number : {0: 1}
 --------------------------
 ```
 
-# $E_6$
+## $E_6$
 
 ```{python}
 not connected : number of components are 2
